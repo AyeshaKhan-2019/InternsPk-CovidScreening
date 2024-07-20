@@ -1,0 +1,11 @@
+
+.img-logo {
+    width: 65px !important;
+  }
+
+  #question .row {
+    display: none;
+  }
+  #question .active {
+    display: block;
+  }
